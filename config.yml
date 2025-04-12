@@ -1,0 +1,4 @@
+#Multiplies the creaking's damage by the multiplier
+damage-multiplier: 1.5
+#Adds to the creakings damage (You can choose which one you want to use, but make sure to set the multiplier to 1.0 and not 0.0 to disable it!)
+addition-multiplier: 0.0

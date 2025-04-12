@@ -1,0 +1,7 @@
+name: StrongerCreaking
+version: '1.0'
+main: dev.bluenightfury46.strongerCreaking.StrongerCreaking
+api-version: '1.21'
+authors: [ BlueNightFury46 ]
+description: Makes the creaking deal more damage
+website: bluenightfury46.dev
